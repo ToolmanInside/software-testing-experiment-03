@@ -20,5 +20,5 @@
 3. 没有执行的判定和条件没有取值；
 4. 条件组合测试时，对一个判定中的条件取值进行组合；
 5. 在报告中需体现程序流程图，用表格记录每种覆盖方法的测试用例，并附上JUnit运行截图；
-6. 报告提交地址 https://docs.qq.com/form/page/DYmxqUnRQSGNlU29u；
+6. 报告提交地址 https://docs.qq.com/form/page/DYmxqUnRQSGNlU29u
 7. DDL：2025-10-28 23:59:59。
